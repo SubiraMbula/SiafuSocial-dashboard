@@ -6,6 +6,7 @@ import {
 import SidebarWithHeader from "./components/sidebar"
 import BasicStatistics from "./components/stats"
 import Prinipal from "./components/principals"
+import Teams from "./components/Team"
 
 
 export const App = () => (
@@ -13,5 +14,6 @@ export const App = () => (
     < SidebarWithHeader children={undefined} />
     < BasicStatistics />
     < Prinipal />
+    < Teams />
   </ChakraProvider>
 )
