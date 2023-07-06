@@ -25,7 +25,7 @@ export  default function Teams(){
                 </Tr>
                 <Tr>
                     <Td>Total Kenya</Td>
-                    <Td>	3,256</Td>
+                    <Td>3,256</Td>
                     <Td>2,865</Td>
                     <Td>72.65%</Td>
                 </Tr>
